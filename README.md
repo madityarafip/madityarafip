@@ -6,6 +6,7 @@ My name is Mohammad Aditya Rafi Pratama, you can call me 'Adit' or 'Rafi' and I 
 - Data Science and Analysis
 - Control System Design
 - Robotics
+- Electrical Engineering
 
 ## How to reach me?
 * Linkedin: [Mohammad Aditya Rafi Pratama](https://www.linkedin.com/in/mohammad-aditya-rafi-pratama/)
